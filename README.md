@@ -14,7 +14,7 @@
 ```bash
 > whoami
 Shadow Squad - Cyber Explorer & Code Assassin
-
+```
 
 > skills --list
 ⚡ Python, JavaScript, C++, Bash
